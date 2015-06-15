@@ -1,0 +1,7 @@
+{
+    "name": "atlanticbt/limitsearchsuggestions",
+    "type": "magento-module",
+    "description": "A magento module that limits the default search suggestions in the search bar..",
+    "keywords": ["magento", "search"],
+    "authors": [{ "name":"AtlanticBT", "email":"magento@atlanticbt.com", "homepage":"http://atlanticbt.com" }]
+}

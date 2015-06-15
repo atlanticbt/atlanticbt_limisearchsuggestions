@@ -1,0 +1,21 @@
+<config>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <system>
+                        <children>
+                            <config>
+                                <children>
+                                    <atlanticbt_limitsearchsuggestions translate="title" module="atlanticbt_limitsearchsuggestions">
+                                        <title>Limit Search Suggestions</title>
+                                    </atlanticbt_limitsearchsuggestions>
+                                </children>
+                            </config>
+                        </children>
+                    </system>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>
